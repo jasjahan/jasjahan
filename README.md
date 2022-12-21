@@ -1,6 +1,6 @@
 ### Hi there! I am Jasmine 👋
 
-<p><img width="100px" src="https://github.com/jasjahan/jasjahan/blob/main/SF%20Golden%20Gate.png" /></p>
+<p><img width="200px" src="https://github.com/jasjahan/jasjahan/blob/main/SF%20Golden%20Gate.png" /></p>
 
 <!--
 **jasjahan/jasjahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
